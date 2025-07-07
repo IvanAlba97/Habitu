@@ -90,7 +90,7 @@ Distribuido bajo la Licencia MIT. Consulta `LICENSE` para más información.
 
 ## Contacto
 
-Enlace del Proyecto: [https://expo.dev/accounts/ivanalba97/projects/Habitu/builds](https://github.com/IvanAlba97/Habitu)
+Enlace del Proyecto: [https://github.com/IvanAlba97/Habitu](https://github.com/IvanAlba97/Habitu)
 
 ## Agradecimientos
 
